@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+In this project we will create a simple full-stack web application using AWS Amplify, a set of tools and services including a web hosting service. In the first module, we will build and host a React application on AWS. Through the remaining four modules, we will initialize a local app using the CLI, add authentication, add a GraphQL API and database, and update our app to store images.
+
 ## Available Scripts
 
 In the project directory, you can run:
